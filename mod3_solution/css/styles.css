@@ -1,0 +1,64 @@
+ body{
+  background-color: #3AAFA9;
+}
+#header-nav{
+   background-color:#17252A;
+   border-radius: 0;
+   border: 0;
+}
+.navbar-brand h1{
+    font-family: 'Lora', serif;
+    color:#3AAFA9;
+   
+    font-weight: bold;
+  float:left;
+   margin-top: 0;
+  
+  
+   
+}
+.navbar-brand a:hover,.nav-header a:focus
+{
+    text-decoration: none;
+}
+
+#nav-list {
+    margin-top: 5px;
+   
+  }
+  #nav-list a {
+    color: #17252A;
+    text-align: center;
+  }
+  
+  #pageheading{
+    color: #17252A;
+    font-size: 50px;
+    font-family: 'Lora', serif;
+    font-weight: bold;
+  }
+  .navbar-header button.navbar-toggle,.navbar-header .icon-bar{
+    border: 1px solid #3AAFA9; 
+   
+  }
+
+ .id1 { 
+   background-color:#66b9b6;
+  }
+  #collapsable-nav a.id2 { 
+    background-color: #adefea;
+   }
+   #collapsable-nav a.id3 { 
+    background-color: #ddf8f8;
+   }
+   #nav-list a:hover {
+    background: #17252A;
+    color:#3AAFA9;
+  }
+  #main-content .jumbotron
+  {
+    background-color: #17252A;
+    color:#3AAFA9;
+  }
+ 
+   
